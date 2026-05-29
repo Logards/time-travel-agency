@@ -1,5 +1,7 @@
 # TimeTravel Agency — Webapp Interactive
 
+Project by [__De AMEZAGA__ Bastien](https://github.com/Logards), [__BARBOTEAU__ Mathieu](https://github.com/Kilecon), [__ARCAS__ Manon](https://github.com/Manon-Arc), [__MACE__ Léo](https://github.com/LeoMa33)
+
 Webapp pour une agence de voyage temporel fictive de luxe, créée dans le cadre d'un projet pédagogique M1/M2 Digital & IA.
 
 **Available at** : <br>
@@ -106,7 +108,3 @@ time-travel-agency/
 ├── tailwind.config.js
 └── vite.config.js
 ```
-
-## Licence
-
-Projet pédagogique - M1/M2 Digital & IA
